@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body bgcolor="pink">
      <h1> Customer registered successfully!!!</h1>
 </body>
 </html>

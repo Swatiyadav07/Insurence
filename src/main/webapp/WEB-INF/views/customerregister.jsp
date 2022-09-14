@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Register Form</title>
 </head>
-<body>
+<body bgcolor="CadetBlue">
 <div> align="center"
 <h1>Customer Register Form</h1>
 <form action="<%= request.getContextPath() %>/register" method="post">
